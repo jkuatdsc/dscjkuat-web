@@ -1,6 +1,6 @@
 # Contributing
 
-[dsc-jkuat weeeeeeb](https://github.com/jkuatdsc/light-saver) is  [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
+[dsc-jkuat web](https://github.com/jkuatdsc/dscjkuat-web) is  [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
 
 ## Getting Started
 
